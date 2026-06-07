@@ -54,7 +54,7 @@ return (
       <div className="flex items-center gap-4 mb-8">
 
         <img
-          src="/logo.png"
+          src="/FinNova.png"
           alt="FinNova AI"
           className="h-20 object-contain"
         />
